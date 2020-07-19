@@ -11,7 +11,7 @@ namespace Lab1_PartialClassesAndPartialMethods
     {
         public Class1()
         {
-            //calling partial method
+            //calling partial method using constructor
             someOneWillImplement();
         }
         public void method5()
